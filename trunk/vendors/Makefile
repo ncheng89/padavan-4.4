@@ -5,6 +5,7 @@
 .EXPORT_ALL_VARIABLES:
 .PHONY: all romfs image clean
 
+
 #
 # Include architecture specific build rules.
 #
