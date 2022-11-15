@@ -13,6 +13,7 @@ This project is based on original rt-n56u with latest mtk 4.4.198 kernel, which 
   - Support WireGuard integrated in kernel
   - Support fullcone NAT (by Chion82)
   - Support LED&GPIO control via sysfs
+  - ff
 
 
 - Supported devices
