@@ -2,6 +2,7 @@
 
 This project is based on original rt-n56u with latest mtk 4.4.198 kernel, which is fetch from D-LINK GPL code.
 
+
 - Features
   - Based on 4.4.198 Linux kernel
   - Support MT7621 based devices
