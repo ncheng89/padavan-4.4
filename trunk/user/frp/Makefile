@@ -30,3 +30,4 @@ ifeq ($(CONFIG_FIRMWARE_INCLUDE_FRPS),y)
 endif
 	$(ROMFSINST) -p +x $(THISDIR)/frp.sh /usr/bin/frp.sh
 	$(ROMFSINST) /etc_ro/frp_script.sh
+
